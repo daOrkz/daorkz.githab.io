@@ -1,0 +1,11 @@
+:root{
+  --main-bg-color: #404040;
+  --sidebar-title-bg-color: #333;
+  --sidebar-text-color: #f2f2f2;
+
+  --sidebar-active-bg-color: #505050;
+
+  --icon-text-color-hover:#202020;
+  --icon-bg-color-hover:#616161;
+  
+}
